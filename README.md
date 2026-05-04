@@ -2,7 +2,7 @@
 
 In this project, I analyzed Costco Wholesale Corporation (COST) stock data by building a simple linear regression model to forecast next-day stock returns using historical return and volume-based features, comparing performance against a baseline, and converting the predicted return into an estimated next-day stock price.
 
-**Software Used:** Python, Jupyter Notebook
+**Software Used:** Python, Jupyter Notebook \
 **Libraries:** pandas, numpy, matplotlib, yfinance, scikit-learn
 
 ## Project Features
